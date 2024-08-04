@@ -680,6 +680,13 @@ button:hover {
 
 form input {
     margin: 10px;
+    background-color: #fff;
+    color: black;
+}
+
+form textarea {
+    background-color: #fff;
+    color: black;
 }
 
 /* FOOTER */
