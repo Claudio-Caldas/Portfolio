@@ -559,7 +559,7 @@ button:hover {
 
 .objects:hover {
     transform: scale(1.05);
-    cursor: pointer;
+    
 }
 
 #obj1 {
