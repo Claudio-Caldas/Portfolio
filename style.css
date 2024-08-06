@@ -860,14 +860,48 @@ footer a:hover {
     }
   }
 
-  @media screen and (min-height:1070px){
-    .home .flex .img img  {
-        margin-top: 260px;
+  @media screen and (min-width:1700px){
+    .home .flex  {
+        margin-top: 120px;
         margin-bottom: 220px;
         
         
     }
-   
+    
+    .form {
+        margin-top: 20px;
+    }
+
+    form {
+        font-size: 2em;
+        height: 55vh;
+    }
+
+    form input::placeholder {
+        font-size: 1.1em;
+    }
+
+    form textarea::placeholder {
+        font-size: 1.1em;
+    }
+
+    .form-btn {
+
+        font-size: 1.1em;
+       
+    }
+
+    form textarea {
+        margin: 40px auto;
+    }
+
+    .botoes {
+        text-align: right;
+    }
+    
+    footer {
+        font-size: 2em;
+    }
   }
   
  
