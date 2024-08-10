@@ -262,7 +262,7 @@ section.home h1 span {
 .img img {
     margin-top: 170px;
     margin-bottom: 77px;
-    animation: movement linear .05s infinite ;
+    animation: movement linear .02s infinite ;
     opacity: .77;  
 }
 
