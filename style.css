@@ -616,6 +616,13 @@ button:hover {
     background-position: center; 
 }
 
+#obj8 {
+    background-image: url(./img/Trevo.jpeg);
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+
+
 
 
 .objects span {
