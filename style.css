@@ -622,7 +622,11 @@ button:hover {
     background-position: center; 
 }
 
-
+#obj9 {
+    background-image: url(./img/Money.png);
+    background-repeat: no-repeat;
+    background-position: center; 
+}
 
 
 .objects span {
