@@ -628,6 +628,12 @@ button:hover {
     background-position: center; 
 }
 
+#obj10 {
+    background-image: url(./img/Nunem.jpg);
+    background-repeat: no-repeat;  
+    background-position: center;
+
+}
 
 .objects span {
     
