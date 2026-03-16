@@ -859,10 +859,10 @@ footer a:hover {
         margin-bottom: 190px;
        
     }
-    .greetings {
-        font-size: 11px;
-    
-  }
+      .greetings h1 {
+    white-space: nowrap; /* Impede a quebra de linha */
+}
+   
 
   @media screen and (max-width:565px) {
    .greetings h1 {
