@@ -635,6 +635,13 @@ button:hover {
 
 }
 
+#obj11 {
+    background-image: url(img/icon.png);
+    background-repeat: no-repeat;  
+    background-position: center;
+
+}
+
 .objects span {
     
     font-size: 7em;
