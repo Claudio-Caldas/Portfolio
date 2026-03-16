@@ -860,14 +860,14 @@ footer a:hover {
        
     }
     .greetings {
-        font-size: 12px;
+        font-size: 11px;
     
   }
 
   @media screen and (max-width:565px) {
-    .greetings {
-        font-size: 11px;
-    }
+   .greetings h1 {
+    white-space: nowrap; /* Impede a quebra de linha */
+}
     .txt-sobre h3 {
         font-size: 15px;
          
