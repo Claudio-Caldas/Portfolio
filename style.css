@@ -632,7 +632,7 @@ button:hover {
     background-image: url(img/DataCenter.jpg);
     background-repeat: no-repeat;  
     background-position: center;
-    object-fit: cover;
+    
 
 }
 
@@ -640,7 +640,7 @@ button:hover {
     background-image: url(img/icon.png);
     background-repeat: no-repeat;  
     background-position: center;
-    object-fit: cover;
+   
 
 }
 
