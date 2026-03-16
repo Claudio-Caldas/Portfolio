@@ -360,6 +360,9 @@ section.home h1 span {
     padding: 3px;
        
 }
+.greetings h1 {
+    white-space: nowrap; /* Impede a quebra de linha */
+}
 
 .txt-sobre h1 {
     animation: msg 7s linear infinite ;
